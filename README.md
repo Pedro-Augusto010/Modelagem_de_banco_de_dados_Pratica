@@ -5,7 +5,7 @@ Este projeto foi desenvolvido com o objetivo de praticar e consolidar os conceit
 ---
 
 ## 🎯 Objetivo
-Simular um cenário real de negócios baseado no funcionamento da **FlixBus** para exercitar o processo de engenharia de requisitos, mapeamento de regras de negócio e abstração dos dados para um modelo relacional bem estruturado.
+Simular um cenário real de negócio baseado no funcionamento da **FlixBus** para exercitar o processo de engenharia de requisitos, mapeamento de regras de negócio e abstração dos dados para um modelo relacional bem estruturado.
 
 ---
 
@@ -36,5 +36,4 @@ Simular um cenário real de negócios baseado no funcionamento da **FlixBus** pa
 ```text
 .
 ├── docs/               # Levantamento de requisitos e regras de negócio
-├── model/              # Diagrama lógico do banco de dados (imagem e/ou script DBML)
 └── README.md           # Documentação do projeto
