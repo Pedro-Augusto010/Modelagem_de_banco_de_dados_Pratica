@@ -35,5 +35,5 @@ Simular um cenário real de negócio baseado no funcionamento da **FlixBus** par
 
 ```text
 .
-├── docs/               # Levantamento de requisitos e regras de negócio
+├── Projeto de Modelagem de Banco de Dados — FlixBus.pdf           # PDF com o levantamento de requisitos, levantamento de dados, regras de negócio e o modelo lógico.
 └── README.md           # Documentação do projeto
